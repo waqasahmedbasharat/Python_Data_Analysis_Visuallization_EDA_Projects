@@ -1,4 +1,4 @@
-# DataScience Projects Portfolio
+# Python_Data_Analysis_Visuallization_EDA_Projects
 
 Welcome to my Data Science Projects Portfolio! 🚀 Explore a captivating world of data-driven insights, where raw data transforms into gold. 📊 From R to Python, Tableau to Power BI, Looker to spreadsheets, witness the magic of analytics and machine learning unfold.
 
