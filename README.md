@@ -19,7 +19,7 @@ Let's embark on this data journey together! Collaborators and curious minds are 
 
 ## Contact
 
-For inquiries or collaboration opportunities, drop me an email at [contactwithwaqasahmed@gmail.com].
+For inquiries or collaboration opportunities, drop me an email at [waqasahmed@xactmind.com].
 
 Let the data enchantment begin! 🎩🔮
 
